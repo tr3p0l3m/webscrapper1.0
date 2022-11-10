@@ -1,0 +1,25 @@
+{
+  "name": "webscrapper1.0",
+  "version": "1.0.0",
+  "description": "I am trying to webscrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr3p0l3m/webscrapper1.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tr3p0l3m/webscrapper1.0/issues"
+  },
+  "homepage": "https://github.com/tr3p0l3m/webscrapper1.0#readme",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "puppeteer": "^19.2.2"
+  }
+}
